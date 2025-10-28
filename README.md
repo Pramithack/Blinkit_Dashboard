@@ -65,7 +65,7 @@ The goal is to transform raw grocery sales data into meaningful insights that ca
 
 ## 🖼️ Dashboard Screenshot  
 
-![Blinkit Dashboard Screenshot](screenshots/BlinkitDashboard.png)
+![Blinkit Dashboard Screenshot](https://github.com/Pramithack/Blinkit_Dashboard/blob/main/Blinkit%20Dashboard%20Screenshot.png)
 
 ---
 
